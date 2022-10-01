@@ -1,1 +1,1 @@
-# Python-Telegrammer-Bot
+# Python-Twitterati-Bot
